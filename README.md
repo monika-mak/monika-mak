@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @monika-mak
 - 👀 I’m interested in solving problems and utilizing my skills to matter! 
-- 🌱 I’m currently in the process of discovering what I want to do when I grow up... so what I am 37? :)
+- 🌱 I’m currently learning Python and my desire is to get into a tech company on an entry-level and work my way up to become an AI engineer! 
 - 💞️ I’m looking to collaborate on the possibilities of AI and its career paths...
 - 📫 How to reach me: LinkedIn profile https://www.linkedin.com/in/monika-mak/ 
 
